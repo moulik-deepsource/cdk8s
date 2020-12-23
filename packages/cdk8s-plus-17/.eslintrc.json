@@ -40,9 +40,7 @@
     "coverage"
   ],
   "rules": {
-    "@typescript-eslint/no-require-imports": [
-      "error"
-    ],
+    "@typescript-eslint/no-require-imports":"error",
     "indent": [
       "off"
     ],
